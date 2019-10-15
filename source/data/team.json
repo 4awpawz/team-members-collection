@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Jack",
+        "lastName": "Dewit",
+        "title" : "Creator/Lead Developer",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet. Quis lectus nulla at volutpat diam ut. Enim praesent elementum facilisis leo vel fringilla est. Dui vivamus arcu felis bibendum ut. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Nunc non blandit massa enim nec dui nunc mattis enim. Magna fringilla urna porttitor rhoncus. Donec et odio pellentesque diam volutpat commodo sed. Arcu dictum varius duis at consectetur. Accumsan tortor posuere ac ut consequat. Auctor eu augue ut lectus arcu."
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Albright",
+        "title" : "Contributer",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet. Quis lectus nulla at volutpat diam ut. Enim praesent elementum facilisis leo vel fringilla est. Dui vivamus arcu felis bibendum ut. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Nunc non blandit massa enim nec dui nunc mattis enim. Magna fringilla urna porttitor rhoncus. Donec et odio pellentesque diam volutpat commodo sed. Arcu dictum varius duis at consectetur. Accumsan tortor posuere ac ut consequat. Auctor eu augue ut lectus arcu."
+    },
+    {
+        "firstName": "Geof",
+        "lastName": "Darrow",
+        "title" : "Contributer",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet. Quis lectus nulla at volutpat diam ut. Enim praesent elementum facilisis leo vel fringilla est. Dui vivamus arcu felis bibendum ut. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Nunc non blandit massa enim nec dui nunc mattis enim. Magna fringilla urna porttitor rhoncus. Donec et odio pellentesque diam volutpat commodo sed. Arcu dictum varius duis at consectetur. Accumsan tortor posuere ac ut consequat. Auctor eu augue ut lectus arcu."
+    },
+    {
+        "firstName": "Dapper",
+        "lastName": "Dan",
+        "title" : "Contributer",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet. Quis lectus nulla at volutpat diam ut. Enim praesent elementum facilisis leo vel fringilla est. Dui vivamus arcu felis bibendum ut. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Nunc non blandit massa enim nec dui nunc mattis enim. Magna fringilla urna porttitor rhoncus. Donec et odio pellentesque diam volutpat commodo sed. Arcu dictum varius duis at consectetur. Accumsan tortor posuere ac ut consequat. Auctor eu augue ut lectus arcu."
+    }
+]
