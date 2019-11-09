@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/4awpawz/team-members-colloection/issues"
   },
-  "homepage": "https://github.com/4awpawz/team-members-colloection#readme"
+  "homepage": "https://github.com/4awpawz/team-members-colloection#readme",
+  "devDependencies": {
+    "@4awpawz/eslint-config-4awpawzconfig": "^1.0.4"
+  }
 }
