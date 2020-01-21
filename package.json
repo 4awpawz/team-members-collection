@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4awpawz/team-members-colloection.git"
+    "url": "git+https://github.com/4awpawz/team-members-collection.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/4awpawz/team-members-colloection/issues"
+    "url": "https://github.com/4awpawz/team-members-collection/issues"
   },
-  "homepage": "https://github.com/4awpawz/team-members-colloection#readme",
+  "homepage": "https://github.com/4awpawz/team-members-collection#readme",
   "devDependencies": {
     "@4awpawz/eslint-config-4awpawzconfig": "^1.0.4"
   }
